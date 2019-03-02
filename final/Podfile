@@ -1,0 +1,12 @@
+platform :ios, '11.0'
+
+target 'BOUN' do
+  use_frameworks!
+
+  # Pods for BOUN
+  pod 'NVActivityIndicatorView'
+  pod 'Firebase/Core'
+  pod 'Fabric'
+  pod 'Crashlytics'
+
+end
